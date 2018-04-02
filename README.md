@@ -3,9 +3,9 @@ A better .nanorc for Bash scripts
 
 Taken from http://www.criticalsecurity.net/index.php/topic/32987-proper-bash-scripting-syntax-highlighting-in-nano (the forum site is dead, but can be viewed via the 2012-05-05 14:29:50 version on web.archive.org).
 
-***Originally posted by user Pilot on 22 May 2010 - 09:00 PM:**
+**Originally posted by user Pilot on 22 May 2010 - 09:00 PM:**
 
-For those interested in getting proper syntax highlighting for Bash scripting in nano, I've just modified the sh highlight file and come up with this:*
+*For those interested in getting proper syntax highlighting for Bash scripting in nano, I've just modified the sh highlight file and come up with this:*
 
 ```
 ## Here is an example for Bourne shell scripts.
